@@ -4,3 +4,7 @@
 <glassfish-web-app>
     <context-root>/temperature-converter-servlets</context-root>
 </glassfish-web-app>
+
+
+<!-- URL: http://localhost:8080/context-root/@WebServlet("/TempConvServlet") -->
+<!-- URL: http://localhost:8080/temperature-converter-servlets/TempConvServlet -->
