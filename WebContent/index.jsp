@@ -5,7 +5,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to Temperature Converter</h1>
+<h1>Witamy w konwerterze temperatury</h1>
 	<p><a href="<%=request.getContextPath()%>/TempConvServlet">Idz do konwertera</a></p>
 </body>
 </html>

@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Converter : Fahrenheit from/to Celsius</h1>
+	<h1>Konwerter : Fahrenheit z/do Celsius</h1>
 	<!-- action - @WebServlet("/TempConvServlet") -->
 	<!-- method - protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException -->
 	<form action="TempConvServlet" method="post">
